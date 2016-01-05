@@ -65,4 +65,4 @@ Disable current system time
 
 Move the git status prompt to the right side
 
-    export ZSH_2000_GIT_PROMPT_LEFT='false'
+    export ZSH_2000_GIT_PROMPT_RIGHT='true'
